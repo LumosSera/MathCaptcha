@@ -1,0 +1,19 @@
+---
+kick-msg: You got kicked for not doing the math or running out of time
+
+captcha-success: You have successfully captcha
+
+captcha-failed: You have failed captcha
+
+title: Math Captcha
+
+content: Please solve the problem
+
+text: Your number math
+
+placeholder-input: Enter your results here
+
+time-math: 30
+
+number-math: 3
+...
